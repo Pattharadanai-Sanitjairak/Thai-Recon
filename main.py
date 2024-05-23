@@ -469,3 +469,5 @@ def buddist_search(firstname:str,lastname:str) -> dict:
 # print(medic_search("พรชนก","ถีระวงษ์"))
 # print(seminar1("ทินกร","ทองขันธ์"))
 # print(buddist_search("ดนัย","นาคช้อย"))
+
+# Later implement
