@@ -229,3 +229,8 @@ print(buddist_search("ดนัย","นาคช้อย"))
 ## dentist_search()
 - https://thaiortho.org/certified-orthodontist
 - ยังไม่ได้ทำการ Implement
+
+## Implementation Note
+- Find more source
+- Port into ready-to-use static website (convert to HTML + JS)
+- Integrate with UI (I am not good at frontend and UI/UX)
